@@ -1,4 +1,4 @@
-[![MasterHead](hhttps://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif)](https://chawla.niharika123.io)
+[![MasterHead](https://i.pinimg.com/564x/08/43/74/0843748e2880f18ebdeb4d1f0f06276c.jpg)](https://niharikachawla.io)
 <h1 align="center">Hi 👋, I'm Niharika Chawla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif">

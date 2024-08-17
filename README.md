@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/08/43/74/0843748e2880f18ebdeb4d1f0f06276c.jpg)](https://niharikachawla.io)
+[![MasterHead](https://camo.githubusercontent.com/645482ae6102b3d25ee88c407586d13a39bc15767b8bf434b7aea06387e1b784/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313230302f312a7936624d56727658566c6762507553544777366f73772e706e67)(https://niharikachawla.io)
 <h1 align="center">Hi 👋, I'm Niharika Chawla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif">
